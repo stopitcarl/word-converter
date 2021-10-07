@@ -1,0 +1,7 @@
+/venv
+.vscode
+__pycache__
+*.doc
+/build/word
+/dist
+/*.spec
